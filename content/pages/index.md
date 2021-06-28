@@ -31,7 +31,7 @@ sections:
         content: >
           We develop IT solutions that meet the demand. We reuse as much as
           possible what is available and create what is not there.
-      - title: Service Title
+      - title: Delivery
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
