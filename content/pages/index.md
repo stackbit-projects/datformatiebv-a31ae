@@ -37,7 +37,7 @@ sections:
       - title: Support
         content: |
           We support existing solutions and solutions developed by us.
-      - title: Service title
+      - title: Management
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
