@@ -35,10 +35,8 @@ sections:
         content: |
           We deliver and implement generic - or tailored custom IT solutions.
       - title: Support
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          We support existing solutions and solutions developed by us.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
