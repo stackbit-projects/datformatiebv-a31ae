@@ -27,7 +27,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Development
         content: >
           We develop IT solutions that meet the demand. We reuse as much as
           possible what is available and create what is not there.
