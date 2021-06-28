@@ -32,10 +32,8 @@ sections:
           We develop IT solutions that meet the demand. We reuse as much as
           possible what is available and create what is not there.
       - title: Delivery
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: |
+          We deliver and implement generic - or tailored custom IT solutions.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
