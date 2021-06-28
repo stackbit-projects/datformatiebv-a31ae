@@ -9,7 +9,7 @@ sections:
       We listen more than we talk because we recon receiving to understand is
       better to send without understanding
     actions:
-      - label: Let's talk
+      - label: ping us
         url: /contact
         style: button
   - section_id: latest-projects
