@@ -38,8 +38,9 @@ sections:
         content: |
           We support existing solutions and solutions developed by us.
       - title: Management
-        content: |
-          We support existing solutions and solutions developed by us.
+        content: >
+          We manage general or very specific IT environments and keep them
+          up-to-date.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
