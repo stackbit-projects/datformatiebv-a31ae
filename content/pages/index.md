@@ -34,7 +34,7 @@ sections:
       - title: Delivery
         content: |
           We deliver and implement generic - or tailored custom IT solutions.
-      - title: Service Title
+      - title: Support
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
